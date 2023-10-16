@@ -21,7 +21,7 @@ html {
 	margin: 0;
 	padding: 0;
 	box-sizing: border-box;
-	font-family: 'Raleway', sans-serif;
+    font-family: 'Fira Code', monospace;
 }
 
 body {
@@ -55,7 +55,7 @@ header .info-text {
 header .info-text h1 {
 	font-size: 5rem;
 	font-weight: 500;
-	font-family: 'Ubuntu';
+    font-family: 'Fira Code', monospace;
 }
 
 header .info-text h3 {
@@ -177,7 +177,7 @@ header .info-text .scroll::before {
 	color: #fff;
 	font-size: 1.7rem;
 	font-weight: bold;
-	font-family: 'Ubuntu';
+    font-family: 'Fira Code', monospace;
 }
 
 #about .card .info p,
@@ -266,7 +266,7 @@ header .info-text .scroll::before {
 li {
 	list-style: none;
 	font-weight: bold;
-	font-family: 'Ubuntu';
+    font-family: 'Fira Code', monospace;
 }
 a {
 	text-decoration: none;
@@ -295,7 +295,7 @@ a:hover {
 	justify-content: space-between;
 	align-items: center;
 	padding: 1rem 2rem;
-	font-family: 'Raleway', sans-serif;
+    font-family: 'Fira Code', monospace;
 }
 
 .hidden-nav {
