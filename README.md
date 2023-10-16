@@ -4,7 +4,7 @@ Welcome to Ibrahim Haseeb's portfolio website, showcasing my journey as a Graphi
 
 ## 📺 Demo
 
-Visit my portfolio live at [Ibrahim Portfolio](#https://cloudyonthemic.github.io/portfolio/).
+Visit my portfolio live at [Ibrahim Portfolio](https://cloudyonthemic.github.io/portfolio/).
 
 ## 🌟 Features
 
